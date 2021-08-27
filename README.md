@@ -1,0 +1,1 @@
+Realizei a intalação do react icons e react-router-dom

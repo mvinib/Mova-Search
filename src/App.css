@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*{
+    box-sizing: border-box;
+ }
+.App{
+    flex-direction: column;
+}
+body{
+    background: #ffff;
+    font-family: 'Montserrat', sans-serif;
+}
+button{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+@media(max-width:440px){
+    body{
+        max-width: 100vh;
+    }
+}
